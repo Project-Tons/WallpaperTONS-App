@@ -56,13 +56,13 @@ The application is compiled as a standalone executable. System registry modifica
 <div align="center">
   <h3>• Interface Architecture •</h3>
   <br>
-  <img src="https://github.com/user-attachments/assets/30207554-f1d6-470a-8a93-ad53fa435518" alt="Core Interface" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMS5wbmc=/original/7%2FWNO6.png" alt="Core Interface" width="100%">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/77c5533b-5625-447a-9ba0-f13cfc5d1816" alt="Media Discovery" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOS5wbmc=/original/fnXRzP.png" alt="Media Discovery" width="100%">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/a87fee86-8fec-4425-8023-d0ead71e6b11" alt="Live Engine Rendering" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOC5wbmc=/original/sAHSeG.png" alt="Live Engine Rendering" width="100%">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/610b1747-228a-4efe-9631-26a64abfc0d2" alt="Vault Management" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMC5wbmc=/original/aU2mSZ.png" alt="Vault Management" width="100%">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/a508d9c3-e14e-4c3c-abc9-b87682e7706e" alt="System Settings & Taskbar Control" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyNy5wbmc=/original/Q4BKtN.png" alt="System Settings & Taskbar Control" width="100%">
 </div>
