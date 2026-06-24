@@ -2,7 +2,8 @@
 
   <img src="https://img.itch.zone/aW1nLzI2ODAzMjk0LnBuZw==/original/AZEzq9.png" alt="WallpaperTONS Logo" width="110">
   
-  <h1 align="center">W A L L P A P E R  T O N S</h1>
+  <h1 align="center">W A L L P A P E R 
+    T O N S</h1>
 
   <b>Desktop Environment Orchestration & Media Rendering Pipeline</b>
 
