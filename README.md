@@ -5,8 +5,8 @@
   <h1 align="center">WallpaperTONS</h1>
 
   <p align="center">
-    <strong>Live Wallpaper and Taskbar Utility for Windows</strong><br>
-    <em>An open-source utility for desktop backgrounds and taskbar customization.</em>
+    <strong>Desktop Environment & Taskbar Utility</strong><br>
+    <em>An open-source C#/WPF utility for rendering dynamic backgrounds and managing taskbar visual states.</em>
   </p>
 
   <p align="center">
@@ -19,52 +19,50 @@
 
 <br>
 
-> **Overview:** WallpaperTONS is an open-source utility built with C# and WPF that allows users to apply animated wallpapers and customize the Windows taskbar. It utilizes Edge WebView2 for rendering dynamic backgrounds and video loops.
+> **Overview:** WallpaperTONS is an open-source utility that relies on Microsoft Edge WebView2 to parse and render local media files as desktop backgrounds. It also interfaces with the Windows Desktop Window Manager (DWM) to configure taskbar transparency and blur effects.
 
 ---
 
-### Ⅰ. Key Features
+### Ⅰ. Technical Specifications
 
-* 🛠️ **Taskbar Customization:** Interfaces directly with the Windows Desktop Window Manager (DWM) to apply Fluent Design effects (Acrylic, Blur, or Full Transparency) to the taskbar.
-* 🚀 **WebView2 Rendering:** Utilizes Microsoft Edge WebView2 to render video loops and dynamic `project.json` wallpapers with high performance.
-* 📂 **Local Media Support:** Supports rendering of high-resolution images, GIFs, and videos directly from local storage.
-* 🔌 **Offline Mode:** Fully localized repository management, allowing users to apply and manage wallpapers without requiring an active internet connection.
+* **Taskbar Customization:** Interfaces with Windows DWM to apply visual states (Acrylic, Blur, or Transparency) to the system taskbar.
+* **WebView2 Integration:** Uses the Edge WebView2 runtime to render local video files and JSON-based configurations efficiently.
+* **Local Media Support:** Manages and renders standard high-resolution images and video files stored locally on the user's machine.
+* **Offline Operation:** Functions entirely offline with localized file management, requiring no network telemetry.
 
 ---
 
 ### Ⅱ. System Requirements
 
-| Specification | Minimum Requirement | Recommended Specification |
-| :--- | :--- | :--- |
-| **Operating System** | Windows 10 (Build 19041+) | Windows 11 (Latest Build) |
-| **Architecture** | x64 | x64 |
-| **System Memory** | 2 GB RAM | 4 GB RAM or higher |
-| **Graphics Hardware** | DirectX 12 Compatible | Dedicated GPU (NVIDIA / AMD) |
-| **Dependencies** | Edge WebView2 Runtime | Edge WebView2 Runtime |
+| Specification | Minimum Requirement |
+| :--- | :--- |
+| **Operating System** | Windows 10 (Build 19041+) or Windows 11 |
+| **Architecture** | x64 |
+| **Memory** | 2 GB RAM |
+| **Graphics** | DirectX 12 Compatible GPU |
+| **Dependencies** | Microsoft Edge WebView2 Runtime |
 
 ---
 
-### Ⅲ. Installation & Setup
+### Ⅲ. Compilation & Usage
 
-The application is compiled as a standalone executable and does not perform any system registry modifications.
-
-1. Go to the **Releases** page and download the latest compiled `x64` binary.
-2. Extract the downloaded package contents to your directory of choice.
-3. Run the executable file to launch the application.
-4. Use the user interface to apply your chosen wallpaper and configure taskbar settings.
+1. Navigate to the **Releases** section to download the latest compiled executable.
+2. Extract the archive to a local directory.
+3. Execute the binary to initialize the application.
+4. Configure media sources and taskbar states via the provided local interface.
 
 ---
 
 <div align="center">
-  <h3>• Application Screenshots •</h3>
+  <h3>• Interface Screenshots •</h3>
   <br>
   <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMS5wbmc=/original/7%2FWNO6.png" alt="WallpaperTONS Core Interface" width="100%">
   <br><br>
-  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOS5wbmc=/original/fnXRzP.png" alt="Live Wallpaper Media Discovery" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOS5wbmc=/original/fnXRzP.png" alt="Local Media Discovery" width="100%">
   <br><br>
-  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOC5wbmc=/original/sAHSeG.png" alt="Live Engine Rendering Animated Background" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOC5wbmc=/original/sAHSeG.png" alt="Engine Rendering Output" width="100%">
   <br><br>
-  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMC5wbmc=/original/aU2mSZ.png" alt="Wallpaper Vault Management" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMC5wbmc=/original/aU2mSZ.png" alt="Vault Management" width="100%">
   <br><br>
-  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyNy5wbmc=/original/Q4BKtN.png" alt="Transparent Taskbar System Settings" width="100%">
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyNy5wbmc=/original/Q4BKtN.png" alt="Taskbar Settings" width="100%">
 </div>
