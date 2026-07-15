@@ -1,69 +1,135 @@
 <div align="center">
 
-  <!-- Small, subtle note for users of unofficial versions -->
-  <sub><i>Note: This utility is designed to assist users who utilize unofficial or cracked versions of Wallpaper Engine and lack direct access to the Steam Workshop.</i></sub>
-  <br><br>
 
-  <!-- App Logo / Icon -->
-  <img src="https://img.icons8.com/fluency/144/download-from-cloud.png" alt="WE Workshop Downloader Logo" width="110">
+
+  <img src="https://img.itch.zone/aW1nLzI2ODAzMjk0LnBuZw==/original/AZEzq9.png" alt="WallpaperTONS Logo" width="110">
+
   
-  <h1 align="center">WE Workshop Downloader</h1>
 
-  <b>Fast & Easy Steam Workshop Downloader for Wallpaper Engine</b>
+  <h1 align="center">WallpaperTONS</h1>
+
+
+
+  <b>Live Wallpaper and Taskbar Utility for Windows</b>
+
   <br>
-  <i>Easily grab any wallpaper link you like and download it directly and fast.</i>
+
+  <i>An open-source utility for desktop backgrounds and taskbar customization.</i>
+
+
 
   <br><br>
+
+
 
   <a href="#"><img src="https://img.shields.io/badge/Platform-Windows_10%20%7C%2011-0078D4.svg?style=for-the-badge&logo=windows" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Downloads-Fast%20%26%20Direct-success.svg?style=for-the-badge" alt="Downloads"></a>
+
   <a href="#"><img src="https://img.shields.io/badge/Architecture-x64-black.svg?style=for-the-badge" alt="Architecture"></a>
+
+  <a href="#"><img src="https://img.shields.io/badge/Rendering-WebView2-success.svg?style=for-the-badge" alt="Rendering"></a>
+
+
 
 </div>
 
+
+
 <br>
 
-> **Overview:** WE Workshop Downloader is a simple and fast utility that allows you to download any animated background from the Steam Workshop. Just paste the link of the wallpaper you like, and the software will download the files directly, normally, and at high speed, ready to be used locally.
+
+
+> **Overview:** WallpaperTONS is an open-source utility built with C# and WPF that allows users to apply animated wallpapers and customize the Windows taskbar. It utilizes Edge WebView2 for rendering dynamic backgrounds and video loops.
+
+
 
 ---
+
+
 
 ### Ⅰ. Features
 
-* **Fast Downloading:** Simply copy the Steam Workshop URL of the wallpaper you like, paste it, and download it at full speed without restrictions.
-* **Direct Extraction:** Downloads the raw files directly so you can seamlessly import them into your local Wallpaper Engine client.
-* **Simple & Clean UI:** Designed to do exactly what it needs to do. No complicated menus, just paste the link and hit download.
-* **Offline Management:** Perfect for users who need to manually transfer wallpapers or build an offline library.
+
+
+* **Taskbar Customization:** Interfaces with the Windows Desktop Window Manager (DWM) to apply Fluent Design effects (Acrylic, Blur, or Full Transparency) to the taskbar.
+
+* **WebView2 Rendering:** Uses Edge WebView2 to render video loops and dynamic `project.json` wallpapers efficiently.
+
+* **Local Media Support:** Supports rendering of high-resolution images and videos directly from local storage.
+
+* **Offline Mode:** Fully localized repository management, allowing users to apply and manage wallpapers without an active internet connection.
+
+
 
 ---
+
+
 
 ### Ⅱ. System Requirements
 
+
+
 | Specification | Minimum | Recommended |
+
 | :--- | :--- | :--- |
-| **OS** | Windows 10 | Windows 11 |
+
+| **OS** | Windows 10 (Build 19041+) | Windows 11 (Latest Build) |
+
 | **Architecture** | x64 | x64 |
-| **Network** | Active Internet connection | Active Broadband connection |
-| **Storage** | 50 MB available space | 200+ MB (Depending on wallpapers) |
+
+| **Memory** | 2 GB RAM | 4 GB RAM |
+
+| **Graphics** | DirectX 12 Compatible | Dedicated GPU (NVIDIA / AMD) |
+
+| **Dependencies**| Edge WebView2 Runtime | Edge WebView2 Runtime |
+
+
 
 ---
+
+
 
 ### Ⅲ. Installation
 
-The application is standalone and does not require complex installations.
 
-1. Go to the **Releases** page and download the latest executable binary.
-2. Extract the files to a folder of your choice.
-3. Run the executable.
-4. Paste the Workshop link and start downloading your wallpapers directly.
+
+The application is compiled as a standalone executable and does not require system registry modifications.
+
+
+
+1. Download the latest `x64` binary from the **Releases** page.
+
+2. Extract the files and run the executable.
+
+3. Use the user interface to apply your chosen wallpaper and taskbar settings.
+
+
 
 ---
 
+
+
 <div align="center">
+
   <h3>• Screenshots •</h3>
+
   <br>
-  <img src="https://media.discordapp.net/attachments/1253803067175075882/1526888016159707306/1.png?ex=6a58a8c7&is=6a575747&hm=5e644fd869d50c1e89473fadcaed512f3620341a03a9dc7d3d3dd60112af1b3b&=&format=webp&quality=lossless&width=526&height=441" alt="Main Interface" width="100%">
+
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMS5wbmc=/original/7%2FWNO6.png" alt="WallpaperTONS Core Interface" width="100%">
+
   <br><br>
-  <img src="https://media.discordapp.net/attachments/1253803067175075882/1526888016654893097/2.png?ex=6a58a8c7&is=6a575747&hm=2b4b086145ff68df9e4aba82210d3ef5c2f093bcea63a1597b76e5f988e5c699&=&format=webp&quality=lossless&width=540&height=441" alt="Downloading" width="100%">
+
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOS5wbmc=/original/fnXRzP.png" alt="Live Wallpaper Media Discovery" width="100%">
+
   <br><br>
-  <img src="https://media.discordapp.net/attachments/1253803067175075882/1526888017057288213/3.png?ex=6a58a8c7&is=6a575747&hm=903f8df2e0fd839fd817e4480a88cd30156f7780a95e3d8317de4174ba12ef72&=&format=webp&quality=lossless&width=797&height=441" alt="Finished Download" width="100%">
+
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOC5wbmc=/original/sAHSeG.png" alt="Live Engine Rendering Animated Background" width="100%">
+
+  <br><br>
+
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMC5wbmc=/original/aU2mSZ.png" alt="Wallpaper Vault Management" width="100%">
+
+  <br><br>
+
+  <img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyNy5wbmc=/original/Q4BKtN.png" alt="Transparent Taskbar System Settings" width="100%">
+
 </div>
