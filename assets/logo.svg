@@ -1,13 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="124" viewBox="8 8 112 116" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplMzk1OTEzYi1kOTAxLTQwMmUtOWFhOC05ZTQwMDQ3YTNmOWEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKbvkqvYvsCkthSYImVfKysAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkYjczMzU1OC03MWE0LTQ0MjctYmU1My03NTRhOGUwOTY5ZWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo6dbWdweHJtLg//wcnNbJDQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggdnBZl+AC4GvVgLTEtGJjrZQ2NxB/yfNhUYsVcAlNsCqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFdjTsMIixlXc3bv5pjNWE0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDhDPAUqlmoNx02C+PE3gHnnuA8ESoqMmkIJ0Oelbf/62RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmUzOTU5MTNiLWQ5MDEtNDAyZS05YWE4LTllNDAwNDdhM2Y5YS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc1NTNiNTIyLTUzNTEtNGViMy1hY2Y4LWM0OWIzYjdlZWFjOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB2cFmX4ALga9WAtMS0YmOtlDY3EH/J82FRixVwCU2wKqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggdXf8ch3RbgHyAsTbsYnpmuU3FhktRnXMLubVLW/8VdaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgge3EZxqATY+I4ahAXkerpVMvxhu6U5jnNK47DelnV6LZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIFSv18q8WSA4m1Gp6tnW0slGNIDhBez69K20MRmG3xa81pC8kUQfPSz0XOa+Mmd7j74blJtbAIHeicUsqFb9zo=</c2pa:manifest></metadata>
-<defs>
-<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="16" x2="0" y2="116"><stop offset="0" stop-color="#4cc3ff"/><stop offset=".5" stop-color="#0078D6"/><stop offset="1" stop-color="#512BD4"/></linearGradient>
-<clipPath id="bc"><path d="M31 48 L97 48 L113 116 L16 116 Z"/></clipPath>
-</defs>
-<g>
-<animateTransform attributeName="transform" type="rotate" values="-4 64 16;4 64 16;-4 64 16" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="3.4s" repeatCount="indefinite"/>
-<circle cx="64" cy="33" r="14.5" fill="none" stroke="url(#g)" stroke-width="6"/>
-<rect x="59" y="40" width="10" height="12" rx="5" fill="url(#g)"/>
-<path d="M31 48 L97 48 L113 116 L16 116 Z" fill="url(#g)" stroke="url(#g)" stroke-width="2" stroke-linejoin="round"/>
-<g clip-path="url(#bc)"><g transform="skewX(-20)"><rect x="-40" y="40" width="20" height="90" fill="#fff" opacity=".4"><animate attributeName="x" values="-40;150" dur="2.6s" repeatCount="indefinite"/></rect></g></g>
-</g>
-</svg>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-dark.svg">
+  <img src="./assets/logo.svg" width="130" alt="WallpaperTONS Logo">
+</picture>
+
+<h1 align="center">WallpaperTONS</h1>
+
+<b>Desktop Environment &amp; Taskbar Utility</b>
+<br>
+<i>An open-source C#/WPF utility for rendering dynamic backgrounds and managing taskbar visual states.</i>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="36" height="36" align="absmiddle"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="36" height="36" align="absmiddle">
+
+<br>
+
+<a href="https://github.com/Project-Tons/WallpaperTONS-App/releases/latest"><img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
+<img src="https://img.shields.io/badge/Platform-Windows_10_%7C_11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
+<img src="https://img.shields.io/badge/Architecture-x64-black?style=for-the-badge" alt="Architecture">
+<img src="https://img.shields.io/badge/Rendering-WebView2-success?style=for-the-badge" alt="Rendering">
+
+</div>
+
+<br>
+
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="32" height="32" align="absmiddle"> Overview</h2>
+
+<p align="center">
+<b>WallpaperTONS</b> is an open-source utility that relies on Microsoft Edge WebView2<br>
+to parse and render local media files as desktop backgrounds.<br>
+It also interfaces with the Windows Desktop Window Manager (DWM)<br>
+to configure taskbar transparency and blur effects.
+</p>
+
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="32" height="32" align="absmiddle"> Technical Specifications</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="36" height="36" align="absmiddle"></h3><b>Taskbar Customization</b><br><sub>Interfaces with Windows DWM to apply visual states (Acrylic, Blur, or Transparency) to the system taskbar.</sub></td>
+<td align="center" width="25%"><h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="36" height="36" align="absmiddle"></h3><b>WebView2 Integration</b><br><sub>Uses the Edge WebView2 runtime to render local video files and JSON-based configurations efficiently.</sub></td>
+<td align="center" width="25%"><h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="36" height="36" align="absmiddle"></h3><b>Local Media Support</b><br><sub>Manages and renders standard high-resolution images and video files stored locally on the user's machine.</sub></td>
+<td align="center" width="25%"><h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="36" height="36" align="absmiddle"></h3><b>Offline Operation</b><br><sub>Functions entirely offline with localized file management, requiring no network telemetry.</sub></td>
+</tr>
+</table>
+
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" width="32" height="32" align="absmiddle"> System Requirements</h2>
+
+<table align="center">
+<tr><th align="left">Specification</th><th align="left">Minimum Requirement</th></tr>
+<tr><td><b>Operating System</b></td><td>Windows 10 (Build 19041+) or Windows 11</td></tr>
+<tr><td><b>Architecture</b></td><td>x64</td></tr>
+<tr><td><b>Memory</b></td><td>2 GB RAM</td></tr>
+<tr><td><b>Graphics</b></td><td>DirectX 12 Compatible GPU</td></tr>
+<tr><td><b>Dependencies</b></td><td>Microsoft Edge WebView2 Runtime</td></tr>
+</table>
+
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" height="32" align="absmiddle"> Quick Start</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h1>01</h1><b>Download</b><br><sub>Navigate to the <a href="https://github.com/Project-Tons/WallpaperTONS-App/releases/latest">Releases</a> section to download the latest compiled executable.</sub></td>
+<td align="center" width="25%"><h1>02</h1><b>Extract</b><br><sub>Extract the archive to a local directory.</sub></td>
+<td align="center" width="25%"><h1>03</h1><b>Launch</b><br><sub>Execute the binary to initialize the application.</sub></td>
+<td align="center" width="25%"><h1>04</h1><b>Configure</b><br><sub>Configure media sources and taskbar states via the provided local interface.</sub></td>
+</tr>
+</table>
+
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="32" height="32" align="absmiddle"> Interface Screenshots</h2>
+
+<div align="center">
+
+<img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMS5wbmc=/original/7%2FWNO6.png" alt="WallpaperTONS Core Interface" width="85%">
+<br><sub><b>1. WallpaperTONS Core Interface</b></sub>
+<br><br>
+
+<img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOS5wbmc=/original/fnXRzP.png" alt="Local Media Discovery" width="85%">
+<br><sub><b>2. Local Media Discovery</b></sub>
+<br><br>
+
+<img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOC5wbmc=/original/sAHSeG.png" alt="Engine Rendering Output" width="85%">
+<br><sub><b>3. Engine Rendering Output</b></sub>
+<br><br>
+
+<img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMC5wbmc=/original/aU2mSZ.png" alt="Vault Management" width="85%">
+<br><sub><b>4. Vault Management</b></sub>
+<br><br>
+
+<img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyNy5wbmc=/original/Q4BKtN.png" alt="Taskbar Settings" width="85%">
+<br><sub><b>5. Taskbar Settings</b></sub>
+<br><br>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:512BD4&height=120&section=footer" width="100%" alt="footer">
+
+</div>
