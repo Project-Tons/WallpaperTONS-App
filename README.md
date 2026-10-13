@@ -25,7 +25,7 @@
 
 <br><br>
 
-<img src="./assets/hero.svg" width="100%" alt="WallpaperTONS desktop preview">
+<img src="./assets/hero.svg" width="100%" alt="WallpaperTONS application preview: static and live wallpapers, taskbar states">
 
 </div>
 
