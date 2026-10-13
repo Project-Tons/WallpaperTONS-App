@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/logo.svg" width="130" alt="WallpaperTONS Logo">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-dark.svg">
+  <img src="./assets/logo.svg" width="130" alt="WallpaperTONS Logo">
+</picture>
 
 <h1 align="center">WallpaperTONS</h1>
 
