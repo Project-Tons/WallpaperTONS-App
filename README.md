@@ -9,7 +9,7 @@
 
 <b>Desktop Environment &amp; Taskbar Utility</b>
 <br>
-<i>An open-source C#/WPF utility for rendering dynamic backgrounds and managing taskbar visual states.</i>
+<i>A free C#/WPF utility for rendering dynamic backgrounds and managing taskbar visual states.</i>
 
 <br><br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-> **Overview:** WallpaperTONS is an open-source utility that relies on Microsoft Edge WebView2 to parse and render local media files as desktop backgrounds. It also interfaces with the Windows Desktop Window Manager (DWM) to configure taskbar transparency and blur effects.
+> **Overview:** WallpaperTONS is a free utility that relies on Microsoft Edge WebView2 to parse and render local media files as desktop backgrounds. It also interfaces with the Windows Desktop Window Manager (DWM) to configure taskbar transparency and blur effects.
 
 ## Features
 
@@ -71,14 +71,16 @@
 
 <div align="center">
 
-<img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMS5wbmc=/original/7%2FWNO6.png" alt="WallpaperTONS Core Interface" width="100%">
-<br><sub><b>WallpaperTONS Core Interface</b></sub>
+<img src="./assets/screenshots/01.jpg" alt="Browse wallpapers" width="100%"><br><sub><b>Browse wallpapers</b></sub>
 
 <br>
 
 <table>
-<tr><td width="50%" align="center"><img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOS5wbmc=/original/fnXRzP.png" alt="Local Media Discovery" width="100%"><br><sub><b>Local Media Discovery</b></sub></td><td width="50%" align="center"><img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyOC5wbmc=/original/sAHSeG.png" alt="Engine Rendering Output" width="100%"><br><sub><b>Engine Rendering Output</b></sub></td></tr>
-<tr><td width="50%" align="center"><img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkzMC5wbmc=/original/aU2mSZ.png" alt="Vault Management" width="100%"><br><sub><b>Vault Management</b></sub></td><td width="50%" align="center"><img src="https://img.itch.zone/aW1hZ2UvNDQ5NjAxMi8yNjgwMjkyNy5wbmc=/original/Q4BKtN.png" alt="Taskbar Settings" width="100%"><br><sub><b>Taskbar Settings</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="./assets/screenshots/02.jpg" alt="Details &amp; crop" width="100%"><br><sub><b>Details &amp; crop</b></sub></td><td width="50%" align="center"><img src="./assets/screenshots/03.jpg" alt="Online favorites" width="100%"><br><sub><b>Online favorites</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="./assets/screenshots/04.jpg" alt="Smart Store — Steam Workshop" width="100%"><br><sub><b>Smart Store — Steam Workshop</b></sub></td><td width="50%" align="center"><img src="./assets/screenshots/05.jpg" alt="Downloads &amp; history" width="100%"><br><sub><b>Downloads &amp; history</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="./assets/screenshots/06.jpg" alt="My live wallpapers" width="100%"><br><sub><b>My live wallpapers</b></sub></td><td width="50%" align="center"><img src="./assets/screenshots/07.jpg" alt="Settings — General" width="100%"><br><sub><b>Settings — General</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="./assets/screenshots/08.jpg" alt="Settings — Appearance" width="100%"><br><sub><b>Settings — Appearance</b></sub></td><td width="50%" align="center"><img src="./assets/screenshots/09.jpg" alt="Settings — Taskbar" width="100%"><br><sub><b>Settings — Taskbar</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="./assets/screenshots/10.jpg" alt="Manage live wallpapers" width="100%"><br><sub><b>Manage live wallpapers</b></sub></td><td width="50%" align="center"><img src="./assets/screenshots/11.jpg" alt="About the creator" width="100%"><br><sub><b>About the creator</b></sub></td></tr>
 </table>
 
 <br>
@@ -86,5 +88,7 @@
 <img src="./assets/divider.svg" width="60%" alt="">
 
 <sub>WallpaperTONS &nbsp;·&nbsp; Project-Tons</sub>
+
+<sub>&copy; 2026 WallpaperTONS. All rights reserved.</sub>
 
 </div>
